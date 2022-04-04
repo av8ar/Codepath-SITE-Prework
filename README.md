@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Game Win Demo](http://g.recordit.co/vvPCVWbg0E.gif)
-![Full Game Win Demo](https://recordit.co/bW95uIlp31)
+![Full Game Win Demo](http://g.recordit.co/bW95uIlp31.gif)
 ![Game Lost Demo](http://g.recordit.co/FECpqYlZ2O.gif)
 ![Start/Stop Demo](http://g.recordit.co/80SJvPQBud.gif)
 
