@@ -45,15 +45,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 https://developer.mozilla.org/en-US/docs/Web/CSS
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 I was struggling with figuring out the cases for the function guess(btn). I referred to the solutions and understood that the key component of what I was not understanding was the existence of the pattern array and how that is how we can compare the guessed button with the actual answer. Through this whole process, I was also fixing bugs that I had made by mistyping when copying certain code snippets from the instructions of the prework. In the final function guess(btn), I had typed pattern[guessCounter] = btn instead of pattern[guessCounter] == btn in the if statement, which was the reason why the alert for "Game Over. You lose!" would never occur! In addition, I found another bug in this part of my code where I had incremented the guessCounter when I should have incremented the progress variable. These are additional reasons that gave me a headache when trying to figure out how to code guess(btn). I learned from this experience that it is important to first plan the structure of your code and execute it swiftly, making sure there little to no confusion for what you are coding and why are you doing it for a specific segment.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 I am highly interested in web development and want to know more about JavaScript in particular. Questions I have are about DOMs, Website Databases, how to get the code for the sound producing of each of the buttons, useful resources to help beginning web developers, and things of this nature that will help me improve my fluency in web development. How do programmers maintain websites on a day-to-day basis and what are key principles in developing good applications and websites in terms of design and performance?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I was given a few more hours to work on this project, I would first focus on making the pattern array change for every new game that is started. Afterwards, I would also want to try changing the sounds of the buttons to see what other noises I can make the buttons produce. I also felt like the delay times and wait times between sounds is too long, so I would definitely make sure that the delay is shortened and also try to fulfill the other challenge feature of making the duration of time between each sequence of buttons faster. 
 
 
