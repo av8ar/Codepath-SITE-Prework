@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Game Win Demo](http://recordit.co/vvPCVWbg0E)
+![Game Win Demo](http://g.recordit.co/vvPCVWbg0E.gif)
 ![Game Lost Demo](https://recordit.co/FECpqYlZ2O)
 ![Start/Stop Demo](http://recordit.co/80SJvPQBud)
 
